@@ -455,7 +455,7 @@ body {
   align-items: center;
   max-width: 1170px;
   margin: 0 auto;
-  outline: solid 1px green;
+  /* outline: solid 1px green; */
 }
 
 .container a {
